@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'xmind_to_rails_model'
+
+service = XmindToRailsModel::Service.new(ARGV[0])
+service.transform_freemind_to_rails_model
