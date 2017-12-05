@@ -2,6 +2,8 @@
 
 A simple ruby gem, parse freemind file and auto generate models and migrations.
 
+[![Build Status](https://travis-ci.org/xifengzhu/xmind_to_rails_model.svg?branch=master)](https://travis-ci.org/xifengzhu/xmind_to_rails_model)
+
 ## Installation
 
 Add this line to your application's Gemfile:
