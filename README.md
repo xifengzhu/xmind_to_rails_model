@@ -22,6 +22,18 @@ Or install it yourself as:
 
 ## Usage
 
+* Model design example
+
+![Model design image](/images/model-design-xmind-example.png)
+
+* Export xmind to freemind type
+
+![Export to freemind](/images/xmind-to-freemind.png)
+
+* Move the freemind file to the root of your project
+
+* Run the follow command
+
 ```shell
 xmind_to_rails_model ${freemind_file_name}
 ```
@@ -29,6 +41,7 @@ xmind_to_rails_model ${freemind_file_name}
 ## TODO
 
 - [ ] Add association to model
+- [ ] Generate ActiveAdmin resource
 
 ## Development
 
